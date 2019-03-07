@@ -1,5 +1,5 @@
 # TestJava11Features
-Come detto nel mio primo articolo su Java, le nuove release di Java avvengono ogni sei mesi e 
+Come detto nel [mio primo articolo su Java](https://valerioemanuele.blog/il-nuovo-sistema-di-versioning-di-java-201902), le nuove release di Java avvengono ogni sei mesi e 
 il prossimo 19 marzo 2019 sarà rilasciata Java 12 che, tra le nuove feature, conterrà una nuova implementazione sperimentale del garbage collector battezzata Shenandoah 
 e per quanto riguarda gli sviluppatori la nuova switch expression che sarà disponibile solo in preview (ovvero compilando e lanciando la JVM con il parametro --enable-preview).
 
